@@ -4,12 +4,12 @@
 3 コンフリクトするのは怖い hoge
 5 gitをマスターしたい
 6 gitはどうするのがベスト？
-7 hage
+7 hagefdsadfsafdsafsa
 9 hage4
-8 hyttt
-10 hfdsafdsa
+8 hytttdsafsaf
+10 hfdsafdsafdsafdsa
 11 hogefdsadfsa
 12 hogefsa
-13 hoge
+13 hogefdsafds
 14 hoge
 15 hoge
