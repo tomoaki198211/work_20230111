@@ -1,15 +1,15 @@
 1 今日はgit道場に参加してる  hoge
-2 どんな編集をしたらいいかわからないが hoge 123
-4 hoge hope 
-3 コンフリクトするのは怖い hoge
-5 hoge コンフリクト起こして見る！
-6 hoge
+2 どんな編集をしたらいいかわからないが hoge
+4 hoge hope 456
+3 コンフリクトするのは怖い 
+5 hoge 
+6 hoge ピザ
 7 hoge
-9 hoge
+9 hoge　　東京
 8 hoge
 10 hoge
-11 hoge
+11 hoge　コンフリクト
 12 hoge
 13 hoge
-14 hoge
+14 hoge 北海道
 15 hoge
