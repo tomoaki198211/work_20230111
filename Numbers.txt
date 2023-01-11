@@ -1,14 +1,18 @@
-1 今日はgit道場に参加してる  hoge
-2 どんな編集をしたらいいかわからないが hoge
-4 hoge hope 456
-3 コンフリクトするのは怖い 
-5 hoge ジオジョイっじお
-6 hoge 
-7 hoge
-9 hoge　　東京
-8 hoge
-10 hoge
-11 hoge　jdっfっd
-13 hoge
-14 hoge 
+
+1 今日はgit道場に参加してる  hogefdsafdsarewqerwqrewq
+2 どんな編集をしたらいいかわからないが hogefdsafdsa
+4 git操作は難しいfdsafdsarteqerq
+3 コンフリクトするのは怖い hogetrewtew
+5 gitをマスターしたい
+6 gitはどうするのがベスト？
+7 hagefdsadfsafdsafsarewqrewq
+9 hage4erwqrewqrewq
+8 hytttdsafsaf
+10 hfdsafdsafdsafdsa
+11 hogefdsadfsarewqerwq
+12 hogefsa
+13 hogefdsafds
+14 hoge
 15 hoge
+
+
